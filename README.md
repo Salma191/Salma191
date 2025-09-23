@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **a Personal Finance Management Platform** to help users manage accounts, transactions, and budgets.<br>👯 I’m looking to collaborate on **.NET applications, QA/testing initiatives, and DevOps automation**<br>🤝 I’m looking for help with **best practices in Azure cloud architecture and automated testing frameworks**<br>🌱 I’m currently learning  **Microsoft Azure** and **Software Testing/QA (manual & automation)**<br>💬 Ask me about **.NET development, backend engineering, database management, and Agile/Scrum teamwork**<br>⚡ Fun fact: I enjoy turning complex processes into simple, automated workflows—it feels like solving puzzles with code!
+🔭 Building a **Personal Finance Management app** to simplify money tracking.<br>👯 Open to collaborating on **.NET**, **QA/Testing**, and **DevOps automation*.<br>🤝 Seeking insights on **Azure best practices** & **automated testing**.<br>🌱 Currently learning **Azure Cloud** & **QA (manual + automation)**.<br>💬 Ask me about **.NET**, **backend engineering**, **databases**, and **Agile teamwork**.<br>⚡ Fun fact: I love transforming **complex problems** into **simple automated workflows** — like solving puzzles with code!
 
 
 ## 🌐 Socials:

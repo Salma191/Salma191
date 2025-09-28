@@ -30,7 +30,6 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=#D04A37)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge\&logo=chart.js\&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge\&logo=Thymeleaf\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
 
@@ -40,17 +39,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge\&logo=swagger\&logoColor=white)
-
-### ☁️ Cloud & DevOps
+  
+### ☁️ Cloud, DevOps & Databases
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-### 🗄️ Databases
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
@@ -63,6 +58,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge\&logo=swagger\&logoColor=white)
+
 
 
 # 📊 GitHub Stats:

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%E2%80%94+I'm+Salma+Jalaoui+;Full-Stack+Developer+%26+QA+Learner+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%E2%80%94+I'm+Salma+Jalaoui+;Full-Stack+Developer+%26+QA+Learner+)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Building a **Personal Finance Management app** to simplify money tracking.<br>👯 Open to collaborating on **.NET**, **QA/Testing**, and **DevOps automation**.<br>🤝 Seeking insights on **Azure best practices** & **automated testing**.<br>🌱 Currently learning **Azure Cloud** & **QA (manual + automation)**.<br>⚡ Passionate about turning complex problems into simple automated workflows
@@ -30,7 +30,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=#D04A37)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge\&logo=chart.js\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge\&logo=Thymeleaf\&logoColor=white)
+
 
 ### ⚙️ Backend & Frameworks
 
@@ -42,6 +42,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
   
 ### ☁️ Cloud, DevOps & Databases
+
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)

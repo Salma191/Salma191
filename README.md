@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 Building a **Personal Finance Management app** to simplify money tracking.<br>👯 Open to collaborating on **.NET**, **QA/Testing**, and **DevOps automation**.<br>🤝 Seeking insights on **Azure best practices** & **automated testing**.<br>🌱 Currently learning **Azure Cloud** & **QA (manual + automation)**.<br>💬 Ask me about **.NET**, **backend engineering**, **databases**, and **Agile teamwork**.<br>⚡ Fun fact: I love transforming **complex problems** into **simple automated workflows** — like solving puzzles with code!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%E2%80%94+I'm+Salma+Jalaoui+;Full-Stack+Developer+%26+QA+Learner+)](https://git.io/typing-svg)
 
+# 💫 About Me:
+🔭 Building a **Personal Finance Management app** to simplify money tracking.<br>👯 Open to collaborating on **.NET**, **QA/Testing**, and **DevOps automation**.<br>🤝 Seeking insights on **Azure best practices** & **automated testing**.<br>🌱 Currently learning **Azure Cloud** & **QA (manual + automation)**.<br>⚡ Passionate about turning complex problems into simple automated workflows
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salma-jalaoui/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmajalaoui1@gmail.com) 

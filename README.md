@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+—+I'm+Salma+Jalaoui+;Full-Stack+Developer+%26+QA+Learner+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+—+I'm+Salma+Jalaoui+;Full-Stack+Developer+%26+QA+Engineer+)](https://git.io/typing-svg)
 
 # 💫 About Me
-🔭 Building a **Personal Finance Management app** to simplify money tracking.  
-👯 Open to collaborating on **.NET**, **QA/Testing**, and **DevOps automation**.  
-🤝 Seeking insights on **Azure best practices** & **automated testing**.  
-🌱 Currently learning **Azure Cloud** & **QA (manual + automation)**.  
-⚡ Passionate about turning complex problems into simple automated workflows.  
+🔭 Developing a **Personal Finance Management app** to simplify money tracking.  
+👯 Open to collaborating on **.NET development** and **QA/Testing projects**.  
+🤝 Exploring best practices in **Azure Cloud** and **test automation**.  
+🌱 Continuously improving skills in **manual and automated QA**, CI/CD, and cloud technologies.  
+⚡ Passionate about delivering high-quality software and turning complex problems into efficient solutions.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-jalaoui/)
@@ -49,10 +49,12 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-008000.svg?style=for-the-badge&logo=xray&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-339933.svg?style=for-the-badge&logo=appium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-DB7093.svg?style=for-the-badge&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+
 
 
 ### ☁️ Cloud, DevOps & Databases
